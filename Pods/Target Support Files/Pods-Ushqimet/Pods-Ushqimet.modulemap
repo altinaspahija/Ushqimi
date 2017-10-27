@@ -1,0 +1,6 @@
+framework module Pods_Ushqimet {
+  umbrella header "Pods-Ushqimet-umbrella.h"
+
+  export *
+  module * { export * }
+}
